@@ -7,5 +7,4 @@ This library provides a category for UIImageView with support for loading images
 
 # How To Use
   #import "UIImageView+WebImage.h"
-  
   [self.imageView setImageWithURLString:@"url"]
