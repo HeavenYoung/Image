@@ -6,6 +6,5 @@ This library provides a category for UIImageView with support for loading images
 - use NSOperation and ARC
 
 # How To Use
-  #import "UIImageView+WebImage.h"
-  
-  [self.imageView setImageWithURLString:@"url"]
+`#import "UIImageView+WebImage.h"` 
+`[self.imageView setImageWithURLString:@"url"]`
